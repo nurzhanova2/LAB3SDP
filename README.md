@@ -1,4 +1,4 @@
-# Password Generator - NURZHANOVA ZARINA
+# Password Generator - NURZHANOVA ZARINA SE-2221
 ## SOLID:
 ### **Single Responsibility Principle (SRP):**
 
